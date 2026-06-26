@@ -1,0 +1,7 @@
+{
+  "short_name": "MLW",
+  "name": "Machine Learning Workshop",
+  "start_url": "/",
+  "display": "standalone",
+  "theme_color": "#226DAA"
+}
